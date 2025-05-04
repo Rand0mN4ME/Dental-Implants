@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Redireccionando...</title>
+  <meta http-equiv="refresh" content="2;url=https://api.whatsapp.com/send?phone=573001112233&text=Hola%20quiero%20más%20información" />
+</head>
+<body>
+  <p>Redirigiendo a WhatsApp...</p>
+</body>
+</html>
